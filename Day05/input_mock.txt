@@ -1,0 +1,2 @@
+this is just a text file mock
+second line in the mock
